@@ -1,0 +1,2 @@
+Contenido inicial del fichero 1
+Contenido particular del repo 1  
